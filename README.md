@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sweta Maharjan</h1>
 <h3 align="center">A passionate Software Developer Enthusiast from Nepal.</h3>
-<img align = "right" alt = "Coding" width = "300" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47vwddhqsvqotkf9b06x55rh0cizz16obh2l86m9na&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align = "right" alt = "Coding" width = "300" height="300" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=ecf05e47vwddhqsvqotkf9b06x55rh0cizz16obh2l86m9na&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on *Weather App*
 
